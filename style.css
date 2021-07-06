@@ -120,3 +120,14 @@ h2 {
   margin: 0;
 }
 /* Counter Area End */
+
+/* App Download Area Start */
+.app-download-area {
+  background-image: url(images/app-bg.jpg);
+  background-size: cover;
+  padding: 100px;
+}
+.app-download-area img {
+  padding-right: 10px;
+}
+/* App Download Area End */
