@@ -129,7 +129,7 @@ h2 {
 }
 #partner {
   padding-left: 20px;
-  border-left: 5px solid;
+  border-left: 6px solid;
   border-image: linear-gradient(blue, cyan);
   border-image-slice: 1;
 }
@@ -143,7 +143,7 @@ h2 {
 
 #why-order-with-us {
   padding-left: 20px;
-  border-left: 5px solid;
+  border-left: 6px solid;
   border-image: linear-gradient(red, green);
   border-image-slice: 1;
 }
