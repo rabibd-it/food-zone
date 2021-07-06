@@ -131,3 +131,12 @@ h2 {
   padding-right: 10px;
 }
 /* App Download Area End */
+
+/* Footer Start */
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 15px 0;
+  text-align: center;
+}
+/* Footer End */
