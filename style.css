@@ -121,6 +121,41 @@ h2 {
 }
 /* Counter Area End */
 
+/* Partner and Odder Inof Area Start */
+.partner-and-why-order-area {
+  background-image: url(images/pw-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+#partner {
+  padding-left: 20px;
+  border-left: 5px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+#partner li {
+  list-style-type: square;
+  color: #df2534;
+}
+#partner li span {
+  color: #000;
+}
+
+#why-order-with-us {
+  padding-left: 20px;
+  border-left: 5px solid;
+  border-image: linear-gradient(red, green);
+  border-image-slice: 1;
+}
+#why-order-with-us li {
+  list-style-type: square;
+  color: #df2534;
+}
+#why-order-with-us li span {
+  color: #000;
+}
+/* Partner and Odder Inof Area End */
+
 /* App Download Area Start */
 .app-download-area {
   background-image: url(images/app-bg.jpg);
