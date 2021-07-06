@@ -102,3 +102,21 @@ h2 {
   margin-bottom: 0;
 }
 /* My Recipi Area End */
+
+/* Counter Area Start */
+.counter-area {
+  display: flex;
+  width: 90%;
+  margin: 0 auto 100px auto;
+  padding: 50px 0;
+  box-shadow: 10px 10px 30px #eee;
+  border-radius: 15px;
+  text-align: center;
+}
+.counter-area h2 {
+  margin: 0;
+}
+.counter-area p {
+  margin: 0;
+}
+/* Counter Area End */
